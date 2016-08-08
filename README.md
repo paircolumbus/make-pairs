@@ -4,6 +4,9 @@ Details:
 by Vasanth Pappu & Jay Bobo  
 paircolumbus.org
 
+####Goal:
+To develop an automated solution to pairing meetup attendees of varying experience.
+
 ####Instructions:
 * Must use Rails 5
 * Must use a testing framework (ie. Minitest, RSpec, Cucumber)
